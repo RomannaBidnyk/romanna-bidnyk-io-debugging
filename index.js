@@ -75,6 +75,7 @@ function setup() {
 
   // Reset number of attempts
   maxNumberOfAttempts = 5;
+  attempts = 0;
 
   // Enable the input and submit button
   submitButton.disabled = false;
